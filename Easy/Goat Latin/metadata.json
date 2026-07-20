@@ -1,0 +1,12 @@
+{
+  "title" : "Goat Latin",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/goat-latin",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "String" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-07-20",
+  "source" : "GreenGrid"
+}
