@@ -1,0 +1,12 @@
+{
+  "title" : "Average Salary Excluding the Minimum and Maximum Salary",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-07-21",
+  "source" : "GreenGrid"
+}
