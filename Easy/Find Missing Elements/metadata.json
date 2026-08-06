@@ -1,0 +1,12 @@
+{
+  "title" : "Find Missing Elements",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/find-missing-elements",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Array", "Sorting", "Hash Table" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-06",
+  "source" : "GreenGrid"
+}
