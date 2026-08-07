@@ -1,0 +1,12 @@
+{
+  "title" : "Sum of Squares of Special Elements",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/sum-of-squares-of-special-elements",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Enumeration", "Array" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-07",
+  "source" : "GreenGrid"
+}
