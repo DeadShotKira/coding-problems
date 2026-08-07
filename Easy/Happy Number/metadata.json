@@ -1,0 +1,12 @@
+{
+  "title" : "Happy Number",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/happy-number",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Two Pointers", "Math", "Floyd's Cycle Finding Algorithm", "Hash Table" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-07",
+  "source" : "GreenGrid"
+}
