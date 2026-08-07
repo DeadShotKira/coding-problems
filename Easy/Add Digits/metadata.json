@@ -1,0 +1,12 @@
+{
+  "title" : "Add Digits",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/add-digits",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Simulation", "Number Theory", "Math" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-07",
+  "source" : "GreenGrid"
+}
