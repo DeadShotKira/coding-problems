@@ -1,0 +1,12 @@
+{
+  "title" : "Roman to Integer",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/roman-to-integer/",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Hash Table", "Math", "String" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-08",
+  "source" : "GreenGrid"
+}
