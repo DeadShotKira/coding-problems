@@ -1,0 +1,12 @@
+{
+  "title" : "Climbing Stairs",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/climbing-stairs?envType=problem-list-v2&envId=dynamic-programming",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Math", "Memoization", "Dynamic Programming" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-08",
+  "source" : "GreenGrid"
+}
