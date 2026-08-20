@@ -1,0 +1,12 @@
+{
+  "title" : "Two Sum",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/two-sum",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Array", "Hash Table" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-20",
+  "source" : "GreenGrid"
+}
