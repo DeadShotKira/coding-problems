@@ -1,0 +1,12 @@
+{
+  "title" : "Add Two Numbers",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/add-two-numbers",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Math", "Linked List", "Recursion" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-20",
+  "source" : "GreenGrid"
+}
