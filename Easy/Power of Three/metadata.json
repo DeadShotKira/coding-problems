@@ -1,0 +1,12 @@
+{
+  "title" : "Power of Three",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/power-of-three",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Recursion", "Math" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-12",
+  "source" : "GreenGrid"
+}
