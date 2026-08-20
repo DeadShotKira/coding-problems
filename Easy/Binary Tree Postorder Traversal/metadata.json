@@ -1,0 +1,12 @@
+{
+  "title" : "Binary Tree Postorder Traversal",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/binary-tree-postorder-traversal",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Tree", "Depth-First Search", "Binary Tree", "Stack" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-12",
+  "source" : "GreenGrid"
+}
