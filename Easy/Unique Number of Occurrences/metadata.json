@@ -1,0 +1,12 @@
+{
+  "title" : "Unique Number of Occurrences",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/unique-number-of-occurrences",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Array", "Hash Table" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-03-20",
+  "source" : "GreenGrid"
+}
