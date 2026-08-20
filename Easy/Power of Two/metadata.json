@@ -1,0 +1,12 @@
+{
+  "title" : "Power of Two",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/power-of-two",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Bit Manipulation", "Recursion", "Math" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-01-13",
+  "source" : "GreenGrid"
+}
