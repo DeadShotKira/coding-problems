@@ -1,0 +1,12 @@
+{
+  "title" : "Make Array Zero by Subtracting Equal Amounts",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Sorting", "Simulation", "Greedy", "Hash Table", "Heap (Priority Queue)", "Array" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-13",
+  "source" : "GreenGrid"
+}
