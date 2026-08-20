@@ -1,0 +1,12 @@
+{
+  "title" : "Minimum Depth of Binary Tree",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Tree", "Depth-First Search", "Binary Tree", "Breadth-First Search" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-12",
+  "source" : "GreenGrid"
+}
