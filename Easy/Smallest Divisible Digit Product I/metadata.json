@@ -1,10 +1,10 @@
 {
   "title" : "Smallest Divisible Digit Product I",
   "platform" : "LeetCode",
-  "problemUrl" : "https://leetcode.com/problems/smallest-divisible-digit-product-i?envType=daily-question&envId=2026-08-06",
+  "problemUrl" : "https://leetcode.com/problems/smallest-divisible-digit-product-i",
   "difficulty" : "EASY",
   "language" : "Java",
-  "topics" : [ ],
+  "topics" : [ "Math", "Enumeration" ],
   "timeComplexity" : "",
   "spaceComplexity" : "",
   "solvedDate" : "2026-08-06",
