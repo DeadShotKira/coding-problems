@@ -1,0 +1,12 @@
+{
+  "title" : "Power of Four",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/power-of-four",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Bit Manipulation", "Recursion", "Math" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-12",
+  "source" : "GreenGrid"
+}
