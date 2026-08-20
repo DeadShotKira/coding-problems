@@ -1,0 +1,12 @@
+{
+  "title" : "Contains Duplicate",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/contains-duplicate",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Sorting", "Array", "Hash Table" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-13",
+  "source" : "GreenGrid"
+}
