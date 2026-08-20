@@ -1,0 +1,12 @@
+{
+  "title" : "Find Greatest Common Divisor of Array",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/find-greatest-common-divisor-of-array",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Math", "Euclidean Algorithm", "Number Theory", "Greatest Common Divisor", "Array" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-13",
+  "source" : "GreenGrid"
+}
