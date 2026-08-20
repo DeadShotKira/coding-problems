@@ -1,0 +1,12 @@
+{
+  "title" : "Count Equal and Divisible Pairs in an Array",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Array" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-12",
+  "source" : "GreenGrid"
+}
