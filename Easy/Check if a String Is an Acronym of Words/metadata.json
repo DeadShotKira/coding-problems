@@ -1,0 +1,12 @@
+{
+  "title" : "Check if a String Is an Acronym of Words",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "String", "Array" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-03-23",
+  "source" : "GreenGrid"
+}
