@@ -1,0 +1,12 @@
+{
+  "title" : "Remove Linked List Elements",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/remove-linked-list-elements",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Linked List", "Recursion" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-01-13",
+  "source" : "GreenGrid"
+}
