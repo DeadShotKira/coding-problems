@@ -1,0 +1,12 @@
+{
+  "title" : "Missing Number",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/missing-number",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Hash Table", "Binary Search", "Sorting", "Array", "Bit Manipulation", "Math" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-08",
+  "source" : "GreenGrid"
+}
