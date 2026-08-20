@@ -1,0 +1,12 @@
+{
+  "title" : "Reverse Linked List",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/reverse-linked-list",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Recursion", "Linked List" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-01-13",
+  "source" : "GreenGrid"
+}
