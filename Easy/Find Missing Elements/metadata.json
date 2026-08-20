@@ -4,9 +4,9 @@
   "problemUrl" : "https://leetcode.com/problems/find-missing-elements",
   "difficulty" : "EASY",
   "language" : "Java",
-  "topics" : [ "Array", "Sorting", "Hash Table" ],
+  "topics" : [ "Hash Table", "Array", "Sorting" ],
   "timeComplexity" : "",
   "spaceComplexity" : "",
-  "solvedDate" : "2026-08-06",
+  "solvedDate" : "2026-08-04",
   "source" : "GreenGrid"
 }
