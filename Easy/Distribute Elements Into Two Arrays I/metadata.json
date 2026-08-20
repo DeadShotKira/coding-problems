@@ -1,0 +1,12 @@
+{
+  "title" : "Distribute Elements Into Two Arrays I",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/distribute-elements-into-two-arrays-i?envType=daily-question&envId=2026-08-20",
+  "difficulty" : "EASY",
+  "language" : "Python",
+  "topics" : [ "Array", "Simulation" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-20",
+  "source" : "GreenGrid"
+}
