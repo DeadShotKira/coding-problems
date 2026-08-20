@@ -1,0 +1,12 @@
+{
+  "title" : "Average Value of Even Numbers That Are Divisible by Three",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Array", "Math" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-12",
+  "source" : "GreenGrid"
+}
