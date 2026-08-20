@@ -1,0 +1,12 @@
+{
+  "title" : "Stone Game V",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/stone-game-v",
+  "difficulty" : "HARD",
+  "language" : "Java",
+  "topics" : [ "Game Theory", "Math", "Array", "Dynamic Programming" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-17",
+  "source" : "GreenGrid"
+}
