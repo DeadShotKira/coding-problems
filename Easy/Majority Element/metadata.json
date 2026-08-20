@@ -4,9 +4,9 @@
   "problemUrl" : "https://leetcode.com/problems/majority-element",
   "difficulty" : "EASY",
   "language" : "Java",
-  "topics" : [ "Boyer–Moore Majority Vote Algorithm", "Sorting", "Counting", "Divide and Conquer", "Hash Table", "Array" ],
+  "topics" : [ "Hash Table", "Counting", "Array", "Boyer–Moore Majority Vote Algorithm", "Sorting", "Divide and Conquer" ],
   "timeComplexity" : "",
   "spaceComplexity" : "",
-  "solvedDate" : "2026-08-06",
+  "solvedDate" : "2026-08-07",
   "source" : "GreenGrid"
 }
