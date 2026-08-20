@@ -1,0 +1,12 @@
+{
+  "title" : "Search in Rotated Sorted Array",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/search-in-rotated-sorted-array",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Array", "Binary Search" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-13",
+  "source" : "GreenGrid"
+}
