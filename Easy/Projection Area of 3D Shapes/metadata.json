@@ -1,0 +1,12 @@
+{
+  "title" : "Projection Area of 3D Shapes",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/projection-area-of-3d-shapes",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Math", "Matrix", "Array", "Geometry" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-03-23",
+  "source" : "GreenGrid"
+}
