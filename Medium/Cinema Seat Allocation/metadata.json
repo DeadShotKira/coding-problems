@@ -1,0 +1,12 @@
+{
+  "title" : "Cinema Seat Allocation",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/cinema-seat-allocation",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Bit Manipulation", "Array", "Hash Table", "Greedy" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-19",
+  "source" : "GreenGrid"
+}
