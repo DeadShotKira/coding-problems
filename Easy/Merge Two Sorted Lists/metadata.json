@@ -1,0 +1,12 @@
+{
+  "title" : "Merge Two Sorted Lists",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/merge-two-sorted-lists",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Linked List", "Recursion" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-01-13",
+  "source" : "GreenGrid"
+}
