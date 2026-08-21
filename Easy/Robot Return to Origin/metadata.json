@@ -1,0 +1,12 @@
+{
+  "title" : "Robot Return to Origin",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/robot-return-to-origin",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "String", "Simulation" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-21",
+  "source" : "GreenGrid"
+}
