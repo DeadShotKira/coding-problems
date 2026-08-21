@@ -1,0 +1,12 @@
+{
+  "title" : "Kth Smallest Amount With Single Denomination Combination",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination",
+  "difficulty" : "HARD",
+  "language" : "Java",
+  "topics" : [ "Number Theory", "Combinatorics", "Math", "Bit Manipulation", "Binary Search", "Array" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-21",
+  "source" : "GreenGrid"
+}
