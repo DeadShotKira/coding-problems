@@ -1,0 +1,12 @@
+{
+  "title" : "Stone Game VIII",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/stone-game-viii",
+  "difficulty" : "HARD",
+  "language" : "Java",
+  "topics" : [ "Array", "Minimax", "Math", "Dynamic Programming", "Game Theory", "Prefix Sum", "Zero-Sum Game" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-07",
+  "source" : "GreenGrid"
+}
