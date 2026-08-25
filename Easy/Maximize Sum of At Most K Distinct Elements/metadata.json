@@ -1,0 +1,12 @@
+{
+  "title" : "Maximize Sum of At Most K Distinct Elements",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements",
+  "difficulty" : "EASY",
+  "language" : "Python",
+  "topics" : [ "Greedy", "Array", "Hash Table", "Sorting" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-25",
+  "source" : "GreenGrid"
+}
