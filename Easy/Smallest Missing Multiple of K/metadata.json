@@ -3,7 +3,7 @@
   "platform" : "LeetCode",
   "problemUrl" : "https://leetcode.com/problems/smallest-missing-multiple-of-k?envType=daily-question&envId=2026-08-25",
   "difficulty" : "EASY",
-  "language" : "Java",
+  "language" : "Python",
   "topics" : [ "Array", "Hash Table" ],
   "timeComplexity" : "",
   "spaceComplexity" : "",
