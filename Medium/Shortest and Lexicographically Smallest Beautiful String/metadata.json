@@ -1,0 +1,12 @@
+{
+  "title" : "Shortest and Lexicographically Smallest Beautiful String",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string?envType=daily-question&envId=2026-08-26",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Sliding Window", "String" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-26",
+  "source" : "GreenGrid"
+}
