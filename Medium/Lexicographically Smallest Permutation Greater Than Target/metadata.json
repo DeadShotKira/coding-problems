@@ -1,0 +1,12 @@
+{
+  "title" : "Lexicographically Smallest Permutation Greater Than Target",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target?envType=daily-question&envId=2026-08-27",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "String", "Greedy", "Hash Table", "Enumeration", "Counting" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-27",
+  "source" : "GreenGrid"
+}
