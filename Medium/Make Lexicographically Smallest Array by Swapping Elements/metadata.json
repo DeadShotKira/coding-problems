@@ -1,0 +1,12 @@
+{
+  "title" : "Make Lexicographically Smallest Array by Swapping Elements",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements?envType=daily-question&envId=2026-08-29",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Union-Find", "Sorting", "Array" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-29",
+  "source" : "GreenGrid"
+}
