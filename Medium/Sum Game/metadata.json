@@ -1,0 +1,12 @@
+{
+  "title" : "Sum Game",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/sum-game",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "String", "Game Theory", "Math", "Greedy" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-23",
+  "source" : "GreenGrid"
+}
