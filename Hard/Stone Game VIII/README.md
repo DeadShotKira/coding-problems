@@ -6,11 +6,11 @@
 | **Difficulty** | Hard |
 | **Problem Link** | [https://leetcode.com/problems/stone-game-viii](https://leetcode.com/problems/stone-game-viii) |
 | **Language** | Java |
-| **Solved On** | August 7, 2026 |
+| **Solved On** | August 24, 2026 |
 
 ## Topics
 
-`Array` `Minimax` `Math` `Dynamic Programming` `Game Theory` `Prefix Sum` `Zero-Sum Game`
+`Dynamic Programming` `Zero-Sum Game` `Game Theory` `Array` `Math` `Prefix Sum` `Minimax`
 
 ---
 *Tracked and committed automatically with [GreenGrid](https://greengrid.dev).*
