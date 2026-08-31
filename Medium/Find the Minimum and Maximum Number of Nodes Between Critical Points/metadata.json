@@ -1,0 +1,12 @@
+{
+  "title" : "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points?envType=daily-question&envId=2026-08-31",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Linked List" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-08-31",
+  "source" : "GreenGrid"
+}
