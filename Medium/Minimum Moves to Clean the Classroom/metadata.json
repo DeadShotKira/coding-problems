@@ -1,0 +1,12 @@
+{
+  "title" : "Minimum Moves to Clean the Classroom",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom?envType=daily-question&envId=2026-09-01",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Hash Table", "Bit Manipulation", "Array", "Breadth-First Search", "Matrix" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-01",
+  "source" : "GreenGrid"
+}
