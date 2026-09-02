@@ -1,0 +1,12 @@
+{
+  "title" : "Construct Uniform Parity Array I",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/construct-uniform-parity-array-i?envType=daily-question&envId=2026-09-02",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Array", "Math" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-02",
+  "source" : "GreenGrid"
+}
