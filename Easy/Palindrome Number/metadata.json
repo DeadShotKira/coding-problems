@@ -1,0 +1,12 @@
+{
+  "title" : "Palindrome Number",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/palindrome-number?envType=problem-list-v2&envId=db6t6sxi",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Math" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-03",
+  "source" : "GreenGrid"
+}
