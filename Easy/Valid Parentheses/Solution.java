@@ -1,0 +1,33 @@
+import java.util.*;
+
+class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+
+        for (char ch : s.toCharArray()) {
+
+            // Opening brackets → push
+            if (ch == '(' || ch == '[' || ch == '{') {
+                stack.push(ch);
+            }
+
+            // Closing brackets → check matching opening bracket
+            else {
+                if (stack.isEmpty()) {
+                    return false;
+                }
+
+                char top = stack.pop();
+
+                if ((ch == ')' && top != '(') ||
+                    (ch == ']' && top != '[') ||
+                    (ch == '}' && top != '{')) {
+                    return false;
+                }
+            }
+        }
+
+        // Valid only if no opening brackets remain
+        return stack.isEmpty();
+    }
+}
