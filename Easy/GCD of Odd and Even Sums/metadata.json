@@ -1,0 +1,12 @@
+{
+  "title" : "GCD of Odd and Even Sums",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/gcd-of-odd-and-even-sums",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Math", "Number Theory" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-03",
+  "source" : "GreenGrid"
+}
