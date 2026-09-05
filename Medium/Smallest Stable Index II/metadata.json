@@ -1,0 +1,12 @@
+{
+  "title" : "Smallest Stable Index II",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/smallest-stable-index-ii?envType=daily-question&envId=2026-09-05",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Array", "Prefix Sum" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-05",
+  "source" : "GreenGrid"
+}
