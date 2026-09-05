@@ -4,9 +4,9 @@
   "problemUrl" : "https://leetcode.com/problems/smallest-stable-index-i",
   "difficulty" : "EASY",
   "language" : "Java",
-  "topics" : [ "Array", "Prefix Sum" ],
+  "topics" : [ "Prefix Sum", "Array" ],
   "timeComplexity" : "",
   "spaceComplexity" : "",
-  "solvedDate" : "2026-09-05",
+  "solvedDate" : "2026-09-04",
   "source" : "GreenGrid"
 }
