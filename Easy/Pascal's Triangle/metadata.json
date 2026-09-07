@@ -1,0 +1,12 @@
+{
+  "title" : "Pascal's Triangle",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/pascals-triangle?envType=problem-list-v2&envId=dynamic-programming",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Array", "Dynamic Programming" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-07",
+  "source" : "GreenGrid"
+}
