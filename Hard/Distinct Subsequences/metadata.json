@@ -1,0 +1,12 @@
+{
+  "title" : "Distinct Subsequences",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/distinct-subsequences",
+  "difficulty" : "HARD",
+  "language" : "Java",
+  "topics" : [ "Dynamic Programming", "String" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-06",
+  "source" : "GreenGrid"
+}
