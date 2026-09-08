@@ -1,0 +1,12 @@
+{
+  "title" : "Count Elements With Strictly Smaller and Greater Elements",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Array", "Sorting", "Counting" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-08",
+  "source" : "GreenGrid"
+}
