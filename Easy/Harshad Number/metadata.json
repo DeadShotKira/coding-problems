@@ -1,0 +1,12 @@
+{
+  "title" : "Harshad Number",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/harshad-number",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Math" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-08",
+  "source" : "GreenGrid"
+}
