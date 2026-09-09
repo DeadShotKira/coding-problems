@@ -1,0 +1,12 @@
+{
+  "title" : "Count Commas in Range II",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/count-commas-in-range-ii?envType=daily-question&envId=2026-09-09",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Math" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-09",
+  "source" : "GreenGrid"
+}
