@@ -1,0 +1,12 @@
+{
+  "title" : "Image Overlap",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/image-overlap?envType=daily-question&envId=2026-09-13",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Matrix", "Array" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-13",
+  "source" : "GreenGrid"
+}
