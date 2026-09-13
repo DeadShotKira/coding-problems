@@ -6,11 +6,11 @@
 | **Difficulty** | Easy |
 | **Problem Link** | [https://leetcode.com/problems/unique-3-digit-even-numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) |
 | **Language** | Java |
-| **Solved On** | September 13, 2026 |
+| **Solved On** | September 11, 2026 |
 
 ## Topics
 
-`Recursion` `Enumeration` `Array` `Hash Table`
+`Recursion` `Enumeration` `Hash Table` `Array`
 
 ---
 *Tracked and committed automatically with [GreenGrid](https://greengrid.dev).*
