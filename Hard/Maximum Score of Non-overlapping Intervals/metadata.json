@@ -1,0 +1,12 @@
+{
+  "title" : "Maximum Score of Non-overlapping Intervals",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals",
+  "difficulty" : "HARD",
+  "language" : "Java",
+  "topics" : [ "Array", "Sorting", "Dynamic Programming", "Binary Search" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-12",
+  "source" : "GreenGrid"
+}
