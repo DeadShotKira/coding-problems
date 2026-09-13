@@ -1,0 +1,12 @@
+{
+  "title" : "Unique 3-Digit Even Numbers",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/unique-3-digit-even-numbers",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Recursion", "Enumeration", "Array", "Hash Table" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-13",
+  "source" : "GreenGrid"
+}
