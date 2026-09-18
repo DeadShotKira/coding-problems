@@ -1,0 +1,12 @@
+{
+  "title" : "Maximum Number of Non-Overlapping Substrings",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings?envType=daily-question&envId=2026-09-18",
+  "difficulty" : "HARD",
+  "language" : "Java",
+  "topics" : [ "Sorting", "Hash Table", "String", "Greedy" ],
+  "timeComplexity" : "",
+  "spaceComplexity" : "",
+  "solvedDate" : "2026-09-18",
+  "source" : "GreenGrid"
+}
