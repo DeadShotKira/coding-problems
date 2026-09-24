@@ -4,7 +4,7 @@
   "problemUrl" : "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
   "difficulty" : "EASY",
   "language" : "Java",
-  "topics" : [ "Array", "Math" ],
+  "topics" : [ "Math", "Array" ],
   "timeComplexity" : null,
   "spaceComplexity" : null,
   "solvedDate" : "2026-09-24",

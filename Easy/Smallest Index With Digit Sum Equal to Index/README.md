@@ -10,7 +10,7 @@
 
 ## Topics
 
-`Array` `Math`
+`Math` `Array`
 
 ---
 *Tracked and committed automatically with [GreenGrid](https://greengrid.dev).*
