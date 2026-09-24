@@ -1,0 +1,12 @@
+{
+  "title" : "Left and Right Sum Differences",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/left-and-right-sum-differences/",
+  "difficulty" : "EASY",
+  "language" : "Python",
+  "topics" : [ "Array", "Prefix Sum" ],
+  "timeComplexity" : null,
+  "spaceComplexity" : null,
+  "solvedDate" : "2026-09-24",
+  "source" : "GreenGrid"
+}
