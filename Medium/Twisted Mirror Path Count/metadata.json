@@ -1,0 +1,12 @@
+{
+  "title" : "Twisted Mirror Path Count",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/twisted-mirror-path-count/",
+  "difficulty" : "MEDIUM",
+  "language" : "Java",
+  "topics" : [ "Array", "Dynamic Programming", "Matrix" ],
+  "timeComplexity" : null,
+  "spaceComplexity" : null,
+  "solvedDate" : "2026-10-31",
+  "source" : "GreenGrid"
+}
