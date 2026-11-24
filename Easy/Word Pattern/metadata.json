@@ -1,0 +1,12 @@
+{
+  "title" : "Word Pattern",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/word-pattern/",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Hash Table", "String" ],
+  "timeComplexity" : null,
+  "spaceComplexity" : null,
+  "solvedDate" : "2026-11-24",
+  "source" : "GreenGrid"
+}
