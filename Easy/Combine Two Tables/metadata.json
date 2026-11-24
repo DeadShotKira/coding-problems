@@ -1,0 +1,12 @@
+{
+  "title" : "Combine Two Tables",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/combine-two-tables/",
+  "difficulty" : "EASY",
+  "language" : "MySQL",
+  "topics" : [ "Database" ],
+  "timeComplexity" : null,
+  "spaceComplexity" : null,
+  "solvedDate" : "2026-11-24",
+  "source" : "GreenGrid"
+}
