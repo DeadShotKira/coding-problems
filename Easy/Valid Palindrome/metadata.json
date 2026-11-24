@@ -1,0 +1,12 @@
+{
+  "title" : "Valid Palindrome",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/valid-palindrome/",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "String", "Two Pointers" ],
+  "timeComplexity" : null,
+  "spaceComplexity" : null,
+  "solvedDate" : "2026-11-24",
+  "source" : "GreenGrid"
+}
