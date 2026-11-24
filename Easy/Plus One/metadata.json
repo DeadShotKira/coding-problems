@@ -1,0 +1,12 @@
+{
+  "title" : "Plus One",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/plus-one/",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Array", "Math" ],
+  "timeComplexity" : null,
+  "spaceComplexity" : null,
+  "solvedDate" : "2026-11-24",
+  "source" : "GreenGrid"
+}
