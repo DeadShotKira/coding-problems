@@ -1,0 +1,12 @@
+{
+  "title" : "Longest Palindrome",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/longest-palindrome/",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Hash Table", "Greedy", "String" ],
+  "timeComplexity" : null,
+  "spaceComplexity" : null,
+  "solvedDate" : "2026-11-24",
+  "source" : "GreenGrid"
+}
