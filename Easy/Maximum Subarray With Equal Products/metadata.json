@@ -1,0 +1,12 @@
+{
+  "title" : "Maximum Subarray With Equal Products",
+  "platform" : "LeetCode",
+  "problemUrl" : "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+  "difficulty" : "EASY",
+  "language" : "Java",
+  "topics" : [ "Enumeration", "Number Theory", "Array", "Sliding Window", "Math" ],
+  "timeComplexity" : null,
+  "spaceComplexity" : null,
+  "solvedDate" : "2026-11-24",
+  "source" : "GreenGrid"
+}
